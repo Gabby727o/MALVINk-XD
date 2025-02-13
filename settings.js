@@ -11,7 +11,7 @@ SESSION_ID: process.env.SESSION_ID || "MALVIN-XD~YtAX0DYR#h_K2p7b-xyzgs8pnmJDSk2
 PREFIX: process.env.PREFIX || "#",
 // add your prifix for bot
 
-BOT_NAME: process.env.BOT_NAME || "Sophia",
+BOT_NAME: process.env.BOT_NAME || "sophia",
 // add bot name here for menu
 
 CUSTOM_REACT: process.env.CUSTOM_REACT || "false",
